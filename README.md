@@ -2,7 +2,7 @@
 I'm Andrew Eroshkin a Frontend Developer
 ## My top languages
 
-![top](https://wakatime.com/share/@amadreh/0dffc31e-c3f1-436e-8052-01a840d74ec5.svg)
+![top](https://wakatime.com/share/@amadreh/42553cb9-5d31-42ca-9a53-0f378c688262.svg)
 
 <!--
 **andreroshkin/andreroshkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
