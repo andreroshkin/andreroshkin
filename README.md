@@ -3,7 +3,7 @@ I'm Andrew Eroshkin a Frontend Developer
 
 ## My top languages
 
-<img src="https://wakatime.com/share/@amadreh/42553cb9-5d31-42ca-9a53-0f378c688262.svg" width="640">
+<img src="https://wakatime.com/share/@amadreh/42553cb9-5d31-42ca-9a53-0f378c688262.svg" width="480">
 
 ## Links
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/andrey-eroshkin/)
